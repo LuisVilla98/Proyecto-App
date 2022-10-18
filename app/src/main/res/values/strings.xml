@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Proyecto2</string>
+    <string name="encabezado1">Aguas Atacameñas</string>
+    <string name="encabezado2">La seguridad al alcance de tus manos</string>
+    <string name="btnIniciar">Iniciar</string>
+    <string name="listaRepresas">Lista de represas</string>
+    <string name="Represa1">Represa 1</string>
+    <string name="Represa2">Represa 2</string>
+    <string name="Represa3">Represa 3</string>
+    <string name="btnDiagnostico">Iniciar Diagnóstico</string>
+    <string name="Nombre">Nombre</string>
+    <string name="CapacidadEstanque">Capacidad</string>
+    <string name="FechaIngreso">Fecha de registro</string>
+    <string name="btnguardar">Guardar registro</string>
+    <string name="registrar">Registrar</string>
+    <string name="Datos">Datos</string>
+    <string name="NivelAgua">Nivel/Agua</string>
+    <string name="OpcionesAcciones">Opciones</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Nivelesdeagua">Niveles de agua</string>
+    <string name="nombrerepresa">Represa 1</string>
+    <string name="nombrerepresa2">Represa 2</string>
+    <string name="Abrircompuertas">Abrir</string>
+    <string name="Cerrarcompuertas">Cerrar</string>
+    <string name="Balizaseguridad">Baliza</string>
+    <string name="alarmadeproceso">Alarma</string>
+    <string name="Opcionesdatos">Seccion/Datos</string>
+    <string name="seccionopciones">Seccion/Opciones</string>
+    <string name="btnInforme">Informe</string>
+    <string name="registroantrior">Registros</string>
+    <string name="informeregadohectareas">Info Hectareas</string>
+    <string name="btnFinalizardiag">Finalizar Diagnostico</string>
+</resources>
